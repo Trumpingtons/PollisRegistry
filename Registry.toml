@@ -1,0 +1,6 @@
+name = "PollisRegistry"
+uuid = "68d3bf32-3939-4443-afe9-589f30d371f7"
+repo = "https://github.com/Trumpingtons/PollisRegistry.git"
+description = "Julia package registry of the Pollis methods: each package tested against the paper it came from."
+
+[packages]

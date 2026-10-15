@@ -11,3 +11,4 @@ description = "Julia package registry of the Pollis methods: each package tested
 9e69d846-84d9-4109-af34-4ac6c9d778dd = { name = "LSTNet", path = "L/LSTNet" }
 a936b278-6358-4b0c-b961-2df574ef2e4f = { name = "GLMExtras", path = "G/GLMExtras" }
 c15cfcd3-dc2c-4711-abc5-139963149349 = { name = "BreslowCox", path = "B/BreslowCox" }
+dddb752d-7eff-4abd-9240-71c099256a61 = { name = "PropensityMatching", path = "P/PropensityMatching" }

@@ -1,0 +1,3 @@
+name = "PeriodicGARCH"
+uuid = "4cc252c1-db3c-4032-95a0-4e0e44ea42a7"
+repo = "https://github.com/Trumpingtons/PeriodicGARCH.jl.git"

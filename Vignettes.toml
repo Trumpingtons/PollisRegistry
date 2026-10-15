@@ -23,6 +23,17 @@ repository = "https://github.com/Trumpingtons/BreslowCox.jl"
 title = "The Cox model with Breslow's ties, and its predicted survival"
 version = "0.1.0"
 
+[ErrorComponents]
+author = "Antonio Saragga Seabra"
+citation = "Baltagi, B. H., Song, S. H. and Jung, B. C. (2001). The unbalanced nested error component regression model. Journal of Econometrics 101(2), 357-381."
+description = "Random-effects panel regressions with the variance components estimated by Wallace-Hussain, Amemiya, Swamy-Arora, Henderson's method III or MIVQUE, one-way, two-way and nested, tested on Baltagi's tables for the Grunfeld, gasoline and public capital data."
+method = "WALHUS, AMEMIYA, Swamy-Arora and nested error components"
+package = "ErrorComponents"
+pdf = "https://github.com/Trumpingtons/ErrorComponents.jl/blob/main/vignette/ErrorComponents.pdf"
+repository = "https://github.com/Trumpingtons/ErrorComponents.jl"
+title = "WALHUS, AMEMIYA, Swamy-Arora and nested error components"
+version = "0.1.0"
+
 [LSTNet]
 author = "Antonio Saragga Seabra"
 citation = "Lai, G., Chang, W.-C., Yang, Y. and Liu, H. (2018). Modeling long- and short-term temporal patterns with deep neural networks. In SIGIR '18: The 41st International ACM SIGIR Conference on Research and Development in Information Retrieval, 95-104."

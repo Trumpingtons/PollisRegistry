@@ -1,0 +1,6 @@
+[0]
+Distributions = "0.25.131-0.25"
+GLM = "1.9.5-1"
+Random = "1.11.0-1"
+Statistics = "1.11.5-1"
+Tables = "1.14.0-1"

@@ -88,3 +88,14 @@ pdf = "https://github.com/Trumpingtons/PropensityMatching.jl/blob/main/vignette/
 repository = "https://github.com/Trumpingtons/PropensityMatching.jl"
 title = "Propensity score matching: Dehejia and Wahba, and its replications"
 version = "0.1.0"
+
+[ThresholdAR]
+author = "Antonio Saragga Seabra"
+citation = "Tong, H. and Lim, K. S. (1980). Threshold autoregression, limit cycles and cyclical data. Journal of the Royal Statistical Society: Series B 42(3), 245-268."
+description = "Tong and Lim's self-exciting threshold autoregressive model with two regimes, SETAR(2; k1, k2): least-squares fit, identification of the threshold and the orders by AIC, choice of the delay by normalised AIC, one-step-ahead prediction, and the eventual forecasting function with its limit cycle."
+method = "Threshold autoregression: SETAR models and limit cycles"
+package = "ThresholdAR"
+pdf = "https://github.com/Trumpingtons/ThresholdAR.jl/blob/main/vignette/ThresholdAR.pdf"
+repository = "https://github.com/Trumpingtons/ThresholdAR.jl"
+title = "Threshold autoregression: SETAR models and limit cycles"
+version = "0.1.0"

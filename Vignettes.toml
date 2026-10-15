@@ -34,6 +34,17 @@ repository = "https://github.com/Trumpingtons/ErrorComponents.jl"
 title = "WALHUS, AMEMIYA, Swamy-Arora and nested error components"
 version = "0.1.0"
 
+[ForestOOB]
+author = "Antonio Saragga Seabra"
+citation = "Breiman, L. (2001). Random forests. Machine Learning 45(1), 5-32."
+description = "Breiman's Forest-RI with its out-of-bag error, the error of its single trees, and permutation importance, tested on his published errors for 19 data sets and on the forests grown on the inputs his importance picked out."
+method = "Out-of-bag error and variable importance for random forests"
+package = "ForestOOB"
+pdf = "https://github.com/Trumpingtons/ForestOOB.jl/blob/main/vignette/ForestOOB.pdf"
+repository = "https://github.com/Trumpingtons/ForestOOB.jl"
+title = "Out-of-bag error and variable importance for random forests"
+version = "0.1.0"
+
 [LSTNet]
 author = "Antonio Saragga Seabra"
 citation = "Lai, G., Chang, W.-C., Yang, Y. and Liu, H. (2018). Modeling long- and short-term temporal patterns with deep neural networks. In SIGIR '18: The 41st International ACM SIGIR Conference on Research and Development in Information Retrieval, 95-104."

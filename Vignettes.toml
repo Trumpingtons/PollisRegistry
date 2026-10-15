@@ -45,6 +45,17 @@ repository = "https://github.com/Trumpingtons/ForestOOB.jl"
 title = "Out-of-bag error and variable importance for random forests"
 version = "0.1.0"
 
+[GLMExtras]
+author = "Antonio Saragga Seabra"
+citation = "Dalal, S. R., Fowlkes, E. B. and Hoadley, B. (1989). Risk analysis of the space shuttle: pre-Challenger prediction of failure. Journal of the American Statistical Association 84(408), 945-957."
+description = "A parametric bootstrap and exact case-deletion influence (delta beta) for binomial GLMs fitted with GLM.jl, tested on Dalal, Fowlkes and Hoadley's Challenger O-ring analysis."
+method = "Parametric bootstrap and delta-beta influence for binomial GLMs"
+package = "GLMExtras"
+pdf = "https://github.com/Trumpingtons/GLMExtras.jl/blob/main/vignette/GLMExtras.pdf"
+repository = "https://github.com/Trumpingtons/GLMExtras.jl"
+title = "Parametric bootstrap and delta-beta influence for binomial GLMs"
+version = "0.1.0"
+
 [LSTNet]
 author = "Antonio Saragga Seabra"
 citation = "Lai, G., Chang, W.-C., Yang, Y. and Liu, H. (2018). Modeling long- and short-term temporal patterns with deep neural networks. In SIGIR '18: The 41st International ACM SIGIR Conference on Research and Development in Information Retrieval, 95-104."

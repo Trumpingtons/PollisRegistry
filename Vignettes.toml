@@ -77,3 +77,14 @@ pdf = "https://github.com/Trumpingtons/PeriodicGARCH.jl/blob/main/vignette/Perio
 repository = "https://github.com/Trumpingtons/PeriodicGARCH.jl"
 title = "Periodic GARCH: volatility with a calendar dummy"
 version = "0.1.0"
+
+[PropensityMatching]
+author = "Antonio Saragga Seabra"
+citation = "Dehejia, R. H. and Wahba, S. (1999). Causal effects in nonexperimental studies: reevaluating the evaluation of training programs. Journal of the American Statistical Association 94(448), 1053-1062."
+description = "Propensity score methods for nonexperimental causal studies, as in Dehejia and Wahba (1999) and its replications by Smith and Todd (2005) and Dehejia (2005): the logit propensity score, common support by the treated range or by Smith and Todd's density trimming, nearest-neighbour matching with replacement (with the range over every way of breaking ties), local linear matching, the effect on the treated and the balance of the covariates."
+method = "Propensity score matching: Dehejia and Wahba, and its replications"
+package = "PropensityMatching"
+pdf = "https://github.com/Trumpingtons/PropensityMatching.jl/blob/main/vignette/PropensityMatching.pdf"
+repository = "https://github.com/Trumpingtons/PropensityMatching.jl"
+title = "Propensity score matching: Dehejia and Wahba, and its replications"
+version = "0.1.0"

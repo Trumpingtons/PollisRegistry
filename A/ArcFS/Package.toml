@@ -1,0 +1,3 @@
+name = "ArcFS"
+uuid = "822a6e3c-ddba-440e-9a72-da13d06323be"
+repo = "https://github.com/Trumpingtons/ArcFS.jl.git"

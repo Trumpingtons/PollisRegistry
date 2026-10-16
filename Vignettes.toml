@@ -44,15 +44,18 @@ topic = "Panel Econometrics"
 version = "0.2.0"
 
 [ForestOOB]
+article = "https://doi.org/10.1023/A:1010933404324"
 author = "Antonio Saragga Seabra"
 citation = "Breiman, L. (2001). Random forests. Machine Learning 45(1), 5-32."
 description = "Breiman's Forest-RI with its out-of-bag error, the error of its single trees, and permutation importance, tested on his published errors for 19 data sets and on the forests grown on the inputs his importance picked out."
+license = "MIT"
 method = "Out-of-bag error and variable importance for random forests"
 package = "ForestOOB"
 pdf = "https://github.com/Trumpingtons/ForestOOB.jl/blob/main/vignette/ForestOOB.pdf"
 repository = "https://github.com/Trumpingtons/ForestOOB.jl"
 title = "Out-of-bag error and variable importance for random forests"
-version = "0.1.0"
+topic = "Random Forests"
+version = "0.2.0"
 
 [GLMExtras]
 author = "Antonio Saragga Seabra"

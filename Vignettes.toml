@@ -58,15 +58,18 @@ topic = "Random Forests"
 version = "0.2.0"
 
 [GLMExtras]
+article = "https://doi.org/10.1080/01621459.1989.10478858"
 author = "Antonio Saragga Seabra"
 citation = "Dalal, S. R., Fowlkes, E. B. and Hoadley, B. (1989). Risk analysis of the space shuttle: pre-Challenger prediction of failure. Journal of the American Statistical Association 84(408), 945-957."
 description = "A parametric bootstrap and exact case-deletion influence (delta beta) for binomial GLMs fitted with GLM.jl, tested on Dalal, Fowlkes and Hoadley's Challenger O-ring analysis."
+license = "MIT"
 method = "Parametric bootstrap and delta-beta influence for binomial GLMs"
 package = "GLMExtras"
 pdf = "https://github.com/Trumpingtons/GLMExtras.jl/blob/main/vignette/GLMExtras.pdf"
 repository = "https://github.com/Trumpingtons/GLMExtras.jl"
 title = "Parametric bootstrap and delta-beta influence for binomial GLMs"
-version = "0.1.0"
+topic = "GLM Inference"
+version = "0.2.0"
 
 [LSTNet]
 author = "Antonio Saragga Seabra"

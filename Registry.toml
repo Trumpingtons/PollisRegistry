@@ -7,6 +7,7 @@ description = "Julia package registry of the Pollis methods: each package tested
 350d2518-104c-493f-aa45-a656b0f737e3 = { name = "ErrorComponents", path = "E/ErrorComponents" }
 3c2c61eb-8689-4fba-b1e7-0e28753a671d = { name = "ForestOOB", path = "F/ForestOOB" }
 4cc252c1-db3c-4032-95a0-4e0e44ea42a7 = { name = "PeriodicGARCH", path = "P/PeriodicGARCH" }
+5ed72046-19de-49b5-a33c-d4f6124ce44a = { name = "PollisEventStudies", path = "P/PollisEventStudies" }
 69289f5e-e4c4-4d94-9bb4-a743e090b1a3 = { name = "ThresholdAR", path = "T/ThresholdAR" }
 822a6e3c-ddba-440e-9a72-da13d06323be = { name = "ArcFS", path = "A/ArcFS" }
 9e69d846-84d9-4109-af34-4ac6c9d778dd = { name = "LSTNet", path = "L/LSTNet" }

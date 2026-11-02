@@ -1,0 +1,3 @@
+name = "StochasticVolatility"
+uuid = "c3f83b8a-3cc9-4a74-b44c-79f892b0a5a4"
+repo = "https://github.com/Trumpingtons/StochasticVolatility.jl.git"

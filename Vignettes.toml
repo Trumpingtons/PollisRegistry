@@ -1,5 +1,5 @@
 # The vignettes of the packages in this registry, one table per package, written by Pollis
-# (Compose > New Methods > Package and Publish) and shown in Help > Documentation > Vignettes.
+# (Compose > New Methods > Package and Publish) and shown in Help > Documentation > Package Vignettes.
 
 [ArcFS]
 article = "https://doi.org/10.1214/aos/1024691079"
@@ -166,6 +166,20 @@ package = "RangeVol"
 pdf = "https://github.com/Trumpingtons/RangeVol.jl/blob/main/vignette/RangeVol.pdf"
 repository = "https://github.com/Trumpingtons/RangeVol.jl"
 title = "RangeVol: volatility from the day's high and low"
+topic = "Volatility"
+version = "0.1.0"
+
+[StochasticVolatility]
+article = ""
+author = "Antonio Saragga Seabra"
+citation = ""
+description = "Simulation and European and American prices under Heston, Bates and SABR, checked against published values, QuantLib and NMOF."
+license = "MIT"
+method = "Heston, Bates and SABR: simulation, closed forms, the Hagan formula, Longstaff-Schwartz and finite differences (MCS-IT)"
+package = "StochasticVolatility"
+pdf = "https://github.com/Trumpingtons/StochasticVolatility.jl/blob/main/vignette/StochasticVolatility.pdf"
+repository = "https://github.com/Trumpingtons/StochasticVolatility.jl"
+title = "StochasticVolatility: Heston, Bates and SABR in Julia"
 topic = "Volatility"
 version = "0.1.0"
 

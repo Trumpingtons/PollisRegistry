@@ -16,4 +16,3 @@ a936b278-6358-4b0c-b961-2df574ef2e4f = { name = "GLMExtras", path = "G/GLMExtras
 c15cfcd3-dc2c-4711-abc5-139963149349 = { name = "BreslowCox", path = "B/BreslowCox" }
 c3f83b8a-3cc9-4a74-b44c-79f892b0a5a4 = { name = "StochasticVolatility", path = "S/StochasticVolatility" }
 dddb752d-7eff-4abd-9240-71c099256a61 = { name = "PropensityMatching", path = "P/PropensityMatching" }
-fe94bdff-efd6-4b9d-b0bf-6b11710f2734 = { name = "MarkovRegimeTest", path = "M/MarkovRegimeTest" }

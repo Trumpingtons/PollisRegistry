@@ -125,7 +125,7 @@ repository = "https://github.com/Trumpingtons/MarkovRegimes.jl"
 source = "MarkovRegimes.tex"
 title = "Markov switching models: tests of one regime against two, estimation, and the dating of the regimes"
 topic = "Regime Switching"
-version = "0.1.1"
+version = "0.1.2"
 
 [PeriodicGARCH]
 article = "https://doi.org/10.1080/07350015.1996.10524640"

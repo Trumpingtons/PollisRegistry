@@ -1,4 +1,4 @@
-[0]
+["0-0.1.0"]
 Distributions = "0.25.134-0.25"
 ForwardDiff = "1.4.7-1"
 LinearAlgebra = "1.13.0-1"
@@ -8,3 +8,14 @@ SpecialFunctions = "2.9.1-2"
 StableRNGs = "1.1.0-1"
 Statistics = "1.11.5-1"
 Tables = "1.14.0-1"
+
+["0.1.1-0"]
+Distributions = "0.25"
+ForwardDiff = "1"
+LinearAlgebra = "1"
+Optim = "1-2"
+Random = "1"
+SpecialFunctions = "2"
+StableRNGs = "1"
+Statistics = "1"
+Tables = "1"

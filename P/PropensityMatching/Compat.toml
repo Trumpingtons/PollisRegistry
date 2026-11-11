@@ -1,4 +1,9 @@
-[0]
+["0-0.2.0"]
 LinearAlgebra = "1.13.0-1"
 Statistics = "1.11.5-1"
 Tables = "1.14.0-1"
+
+["0.2.1-0"]
+LinearAlgebra = "1"
+Statistics = "1"
+Tables = "1"

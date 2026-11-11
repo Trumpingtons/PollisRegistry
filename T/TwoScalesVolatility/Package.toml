@@ -1,0 +1,3 @@
+name = "TwoScalesVolatility"
+uuid = "88ce6367-b423-44b4-82fc-2e0e39842074"
+repo = "https://github.com/Trumpingtons/TwoScalesVolatility.jl.git"

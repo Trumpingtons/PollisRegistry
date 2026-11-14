@@ -1,0 +1,3 @@
+name = "ForecastM4Benchmark"
+uuid = "5fa7471d-7637-4bdc-9f97-6ff05bfafc8f"
+repo = "https://github.com/Trumpingtons/ForecastM4Benchmark.jl.git"

@@ -4,6 +4,7 @@ repo = "https://github.com/Trumpingtons/PollisRegistry.git"
 description = "Julia package registry of the Pollis methods: each package tested against the paper it came from."
 
 [packages]
+1a6a96d5-84d0-410a-9647-cfffdb321811 = { name = "PollisTeX", path = "P/PollisTeX" }
 2719bbb3-7917-40f7-a51e-31fc09a570bb = { name = "MarkovRegimes", path = "M/MarkovRegimes" }
 350d2518-104c-493f-aa45-a656b0f737e3 = { name = "ErrorComponents", path = "E/ErrorComponents" }
 3c2c61eb-8689-4fba-b1e7-0e28753a671d = { name = "ForestOOB", path = "F/ForestOOB" }

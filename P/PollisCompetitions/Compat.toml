@@ -4,6 +4,3 @@ DuckDB = "1-2"
 LibArchive_jll = "3"
 Tables = "1"
 julia = "1.10.0-1"
-
-["0-0.1"]
-ForecastM4Benchmark = "0.1"

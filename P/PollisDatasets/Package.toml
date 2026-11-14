@@ -1,0 +1,3 @@
+name = "PollisDatasets"
+uuid = "b43d2445-bde6-43fd-b0e7-0c8ab91b08dc"
+repo = "https://github.com/Trumpingtons/PollisDatasets.jl"

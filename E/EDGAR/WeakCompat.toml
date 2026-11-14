@@ -1,0 +1,3 @@
+[0]
+DuckDB = "1.5.0-1"
+PythonCall = "0.9"

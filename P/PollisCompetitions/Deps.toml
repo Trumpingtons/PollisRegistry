@@ -12,5 +12,8 @@ SHA = "ea8e919c-243c-51af-8825-aaa63cd721ce"
 ["0-0.2.6"]
 Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
 
-["0.2.10-0"]
+["0.2.10"]
 Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+
+["0.2.11-0"]
+ModelZoo = "a1b986c4-848b-4d58-90b1-f20fca0fa64e"

@@ -9,3 +9,8 @@ EzXML = "8f5d6c58-4d21-5cfd-889c-e3ad7ee6a615"
 Graphs = "86223c79-3864-5bf0-83f7-82e725a168b6"
 SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
 ZipArchives = "49080126-0e18-4c2a-b176-c102e4b3760c"
+
+["0.3.1-0"]
+DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"

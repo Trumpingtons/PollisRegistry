@@ -6,6 +6,7 @@ description = "Julia package registry of the Pollis methods: each package tested
 [packages]
 1a6a96d5-84d0-410a-9647-cfffdb321811 = { name = "PollisTeX", path = "P/PollisTeX" }
 2719bbb3-7917-40f7-a51e-31fc09a570bb = { name = "MarkovRegimes", path = "M/MarkovRegimes" }
+2b666290-b2df-4ac3-9f74-2cd1fb537102 = { name = "SmartRegions", path = "S/SmartRegions" }
 350d2518-104c-493f-aa45-a656b0f737e3 = { name = "ErrorComponents", path = "E/ErrorComponents" }
 3c2c61eb-8689-4fba-b1e7-0e28753a671d = { name = "ForestOOB", path = "F/ForestOOB" }
 4cc252c1-db3c-4032-95a0-4e0e44ea42a7 = { name = "PeriodicGARCH", path = "P/PeriodicGARCH" }

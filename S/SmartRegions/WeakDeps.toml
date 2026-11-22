@@ -1,4 +1,9 @@
-["0.3.1-0"]
+["0.3.1"]
 NNlib = "872c559c-99b0-510c-b3b7-b6c96a88d5cd"
 Pickle = "fbb45041-c46e-462f-888f-7c521cafbc2c"
+
+["0.3.1-0"]
 Rasters = "a3a2b9e3-a471-40c9-b274-f788e487c689"
+
+["0.3.2-0"]
+ArchGDAL = "c9ce4bd3-c3d5-55b8-8973-c0e20141b8c3"

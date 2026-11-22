@@ -15,6 +15,20 @@ title = "arc-fs: adaptive resampling with pruned trees"
 topic = "Boosting"
 version = "0.2.0"
 
+[ArchaeologicalDetection]
+article = ""
+author = "Antonio Saragga Seabra"
+citation = ""
+description = "ADAF's trained HRNet models for archaeological features in lidar terrain models, run in Julia and checked against PyTorch"
+license = "MIT"
+method = "Detection of archaeological features by trained networks"
+package = "ArchaeologicalDetection"
+repository = "https://github.com/Trumpingtons/ArchaeologicalDetection.jl"
+source = "ArchaeologicalDetection.tex"
+title = "ArchaeologicalDetection: trained networks for archaeological prospection in Julia"
+topic = "Archaeological Prospection"
+version = "0.1.0"
+
 [BreslowCox]
 article = "https://doi.org/10.1002/hep.1840100102"
 author = "Antonio Saragga Seabra"

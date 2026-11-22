@@ -183,6 +183,20 @@ title = "RangeVol: volatility from the day's high and low"
 topic = "Volatility"
 version = "0.1.0"
 
+[SmartRegions]
+article = ""
+author = "Antonio Saragga Seabra"
+citation = ""
+description = "Overture Maps, the OpenSky Network, Mapillary, Copernicus, USGS EarthExplorer, OpenTopography, OpenStreetMap and its street networks, Eurostat, INSPIRE and the flows of mobility, read into DuckDB"
+license = "MIT"
+method = "Open data of places"
+package = "SmartRegions"
+repository = "https://github.com/Trumpingtons/SmartRegions.jl"
+source = "SmartRegions.tex"
+title = "SmartRegions: open data of places in Julia"
+topic = "Smart Regions"
+version = "0.3.0"
+
 [StochasticVolatility]
 article = ""
 author = "Antonio Saragga Seabra"

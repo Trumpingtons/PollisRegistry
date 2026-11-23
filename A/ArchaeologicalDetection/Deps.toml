@@ -9,3 +9,7 @@ DecisionTree = "7806a523-6efd-50cb-b5f6-3fa6f1930dbb"
 Downloads = "f43a241f-c20a-4ad4-852c-f6b1247861c6"
 JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
 Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+
+["0.2.2-0"]
+JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
+ZipArchives = "49080126-0e18-4c2a-b176-c102e4b3760c"

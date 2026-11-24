@@ -27,7 +27,7 @@ repository = "https://github.com/Trumpingtons/ArchaeologicalDetection.jl"
 source = "ArchaeologicalDetection.tex"
 title = "ArchaeologicalDetection: trained models for archaeological prospection in Julia"
 topic = "Archaeological Prospection"
-version = "0.2.2"
+version = "0.2.3"
 
 [BreslowCox]
 article = "https://doi.org/10.1002/hep.1840100102"

@@ -83,7 +83,7 @@ repository = "https://github.com/Trumpingtons/EventStudies.jl"
 source = "EventStudies.tex"
 title = "Event Studies: a filing's minutes, a law's years"
 topic = "Event Studies"
-version = "0.1.0"
+version = "0.1.1"
 
 [ForestOOB]
 article = "https://doi.org/10.1023/A:1010933404324"

@@ -16,3 +16,11 @@ TOML = "1"
 
 ["0.1.6-0"]
 JSON = ["0.21", "1"]
+
+["0.1.8-0"]
+CodecZlib = "0.7"
+EzXML = "1"
+Logging = "1"
+Mmap = "1"
+Tar = "1"
+ZipArchives = "2"
